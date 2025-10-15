@@ -18,6 +18,15 @@
 
 ---
 
+## 🖥️ Tech Stack
+
+* **HTML5** – structure and content
+* **CSS3** – styling, gradients, animations, and responsiveness
+* **JavaScript (ES6)** – quiz logic, timers, scoring, and dark mode
+* **Local Storage** – persisting dark mode preference
+
+---
+
 ## 🖥️ Preview
 
 Open the app in your browser to see the fully functional quiz experience. All elements are responsive, animated, and optimized for usability.
@@ -26,15 +35,16 @@ Open the app in your browser to see the fully functional quiz experience. All el
 
 ## 🧩 Project Structure
 
-```
 Quizz App/
 │
-├── index.html         # Main HTML page
-├── style.css          # App styling with gradients, dark mode, and responsive design
-├── script.js          # Quiz logic, timers, scoring, and progress bar
-├── favicon-v2.png     # App icon
-└── README.md          # Project documentation (this file)
-```
+├── index.html # Main HTML page
+├── style.css # App styling with gradients, dark mode, and responsive design
+├── script.js # Quiz logic, timers, scoring, and progress bar
+├── favicon-v2.png # App icon
+└── README.md # Project documentation (this file)
+
+yaml
+Copy code
 
 ---
 
@@ -44,30 +54,37 @@ Quizz App/
 
    ```bash
    git clone https://github.com/Usaf007/Quizz-App.git
-   ```
+Open the project folder in VS Code
 
-2. **Open the project folder in VS Code**
+Run the app
 
-3. **Run the app**
+Open index.html in your browser (Chrome, Edge, Firefox, etc.)
 
-   * Open `index.html` in your browser (Chrome, Edge, Firefox, etc.)
+Interact with the quiz
 
-4. **Interact with the quiz**
+Start the quiz, answer questions, check your score, and use the dark mode toggle
 
-   * Start the quiz, answer questions, check your score, and use dark mode toggle
+💡 Future Improvements
+Add more question categories and a larger question bank
 
----
+Implement user authentication and leaderboard
 
-## 👨‍💻 Author
+Enable customizable timers for different quizzes
 
-**Yousaf Atiq**
+Provide detailed explanations after each question
 
-* GitHub: [@Usaf007](https://github.com/Usaf007)
-* Linkedin: https://www.linkedin.com/in/yousaf-atiq-458baa34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJlep6O1QTemJQU8V7lxW%2Bw%3D%3D
-* Email: usafatiq@gmail.com
+Convert to a Progressive Web App (PWA) for offline access
 
----
+Add sound effects and animations for more interactive experience
 
-## 📜 License
+👨‍💻 Author
+Yousaf Atiq
 
+GitHub: @Usaf007
+
+LinkedIn: Yousaf Atiq
+
+Email: usafatiq@gmail.com
+
+📜 License
 © 2025 Yousaf Atiq – All rights reserved.
