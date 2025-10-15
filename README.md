@@ -63,7 +63,7 @@ Quizz App/
 **Yousaf Atiq**
 
 * GitHub: [@Usaf007](https://github.com/Usaf007)
-* Portfolio / Contact: Add your portfolio link if you want
+* Email: usafatiq@gmail.com
 
 ---
 
