@@ -63,7 +63,7 @@ Quizz App/
 **Yousaf Atiq**
 
 * GitHub: [@Usaf007](https://github.com/Usaf007)
-* Linkedin: https://www.linkedin.com/in/yousaf-atiq-458baa34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJlep6O1QTemJQU8V7lxW%2Bw%3D%3D
+* Linkedin: https://www.linkedin.com/in/yousaf-atiq-458baa34b
 * Email: usafatiq@gmail.com
 
 ---
